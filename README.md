@@ -54,3 +54,6 @@ El desarrollo de MediTech ha permitido:
 Para más detalles, consulta el informe completo del proyecto disponible en el siguiente enlace: [Informe MediTech](UPC-TF-Report-Meditech.pdf).
 
 
+Meditech © 2022 by Joan Jefferson Talizo Balbin is licensed under CC BY-NC-SA 4.0 
+
+Meditech © 2022 by Joan Jefferson Talizo Balbin is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
